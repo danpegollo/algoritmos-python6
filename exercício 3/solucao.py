@@ -7,7 +7,6 @@ vogais = (
     frase.count("u")
 )
 espaco = frase.count(" ")
-
 print(f"Vogais: {vogais}")
 print(f"Espaços: {espaco}")
 
